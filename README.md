@@ -1,6 +1,6 @@
 # Cybersecurity Loss Exceedance Curve (LEC) Workbook 🧠💥
 
-Welcome to the **Cyber LEC Lab** - where Monte Carlo meets mayhem thanks to code adapted from from Tim Layton's [How To Program a Cybersecurity Loss Exceedance Curve in Python](https://timlaytoncybersecurity.medium.com/how-to-program-a-cybersecurity-loss-exceedance-curve-in-python-64d90cfa59d3). This Jupyter notebook helps CISOs, risk analysts, and security nerds quantify the unquantifiable: *“What’s the chance we lose more than $X this year?”*  
+Welcome to the **Cyber LEC Lab** - where Monte Carlo meets mayhem thanks to code adapted from Tim Layton's [How To Program a Cybersecurity Loss Exceedance Curve in Python](https://timlaytoncybersecurity.medium.com/how-to-program-a-cybersecurity-loss-exceedance-curve-in-python-64d90cfa59d3). This Jupyter notebook helps CISOs, risk analysts, and security nerds quantify the unquantifiable: *“What’s the chance we lose more than $X this year?”*  
 
 ---
 
